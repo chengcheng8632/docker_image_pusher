@@ -1,3 +1,2 @@
 #支持私库
-nvcr.io/nvidia/nemo:24.05.Llama3.1
-nvcr.io/nvidia/nemo:24.05
+nvcr.io/nvidia/nemo:24.05.llama3.1
